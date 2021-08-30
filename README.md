@@ -19,6 +19,7 @@
 npm i
 npm start
 </code></pre>
+<h5 class="code-line" data-line-start=34 data-line-end=35 ><a id="Installation_34"></a> now you can check it out on postmen simply go to http://localhost:5000/reports</h5>
 
 <h2 class="code-line" data-line-start=34 data-line-end=35 ><a id="Installation_34"></a>Commands to test Api. I have used Mocha and Chai for testing. </h2>
 
